@@ -1,0 +1,59 @@
+C:\Users\openpgsvc\documents\visual studio 2015\Projects\UdpFinishing\UdpFinishing\bin\Debug\UdpFinishing.exe.config
+C:\Users\openpgsvc\documents\visual studio 2015\Projects\UdpFinishing\UdpFinishing\obj\Debug\UdpFinishing.exe
+C:\Users\openpgsvc\documents\visual studio 2015\Projects\UdpFinishing\UdpFinishing\obj\Debug\UdpFinishing.pdb
+C:\Users\openpgsvc\documents\visual studio 2015\Projects\UdpFinishing\UdpFinishing\bin\Debug\UdpFinishing.exe
+C:\Users\openpgsvc\documents\visual studio 2015\Projects\UdpFinishing\UdpFinishing\bin\Debug\UdpFinishing.pdb
+C:\Users\openpgsvc\documents\visual studio 2015\Projects\UdpFinishing\UdpFinishing\obj\Debug\UdpFinishing.UdpChatFinishing.resources
+C:\Users\openpgsvc\documents\visual studio 2015\Projects\UdpFinishing\UdpFinishing\obj\Debug\UdpFinishing.Properties.Resources.resources
+C:\Users\openpgsvc\documents\visual studio 2015\Projects\UdpFinishing\UdpFinishing\obj\Debug\UdpFinishing.Setting.resources
+C:\Users\openpgsvc\documents\visual studio 2015\Projects\UdpFinishing\UdpFinishing\obj\Debug\UdpFinishing.csproj.GenerateResource.Cache
+C:\Users\openpgsvc\Documents\Visual Studio 2015\Projects\UdpFinishing\UdpFinishing\obj\Debug\UdpFinishing.UIControls.UICMessage.resources
+C:\Users\openpgsvc\Documents\Visual Studio 2015\Projects\UdpFinishing\UdpFinishing\obj\Debug\UdpFinishing.Test.resources
+C:\Users\openpgsvc\Documents\Visual Studio 2015\Projects\UdpFinishing\UdpFinishing\obj\Debug\UdpFinishing.Layouttest.resources
+C:\Users\openpgsvc\Documents\Visual Studio 2015\Projects\UdpFinishing\UdpFinishing\obj\Debug\UdpFinishing.UIControls.UCcontacts.resources
+C:\Users\openpgsvc\Documents\Visual Studio 2015\Projects\UdpFinishing\UdpFinishing\obj\Debug\UdpFinishing.UIControls.OvalPic.resources
+C:\Users\openpgsvc\Documents\Visual Studio 2015\Projects\UdpFinishing\UdpFinishing\obj\Debug\UdpFinishing.Ui.Connect.resources
+C:\Users\openpgsvc\documents\visual studio 2015\Projects\UdpFinishing\UdpFinishing\obj\Debug\UdpFinishing.UIControls.UIExit.resources
+C:\Users\openpgsvc\Documents\Visual Studio 2015\Projects\Udpchatbackup\UdpFinishing\bin\Debug\UdpFinishing.exe.config
+C:\Users\openpgsvc\Documents\Visual Studio 2015\Projects\Udpchatbackup\UdpFinishing\obj\Debug\UdpFinishing.exe
+C:\Users\openpgsvc\Documents\Visual Studio 2015\Projects\Udpchatbackup\UdpFinishing\obj\Debug\UdpFinishing.pdb
+C:\Users\openpgsvc\Documents\Visual Studio 2015\Projects\Udpchatbackup\UdpFinishing\bin\Debug\UdpFinishing.exe
+C:\Users\openpgsvc\Documents\Visual Studio 2015\Projects\Udpchatbackup\UdpFinishing\bin\Debug\UdpFinishing.pdb
+C:\Users\openpgsvc\Documents\Visual Studio 2015\Projects\Udpchatbackup\UdpFinishing\obj\Debug\UdpFinishing.Properties.Resources.resources
+C:\Users\openpgsvc\Documents\Visual Studio 2015\Projects\Udpchatbackup\UdpFinishing\obj\Debug\UdpFinishing.Setting.resources
+C:\Users\openpgsvc\Documents\Visual Studio 2015\Projects\Udpchatbackup\UdpFinishing\obj\Debug\UdpFinishing.UIControls.UIExit.resources
+C:\Users\openpgsvc\Documents\Visual Studio 2015\Projects\Udpchatbackup\UdpFinishing\obj\Debug\UdpFinishing.UIControls.UCcontacts.resources
+C:\Users\openpgsvc\Documents\Visual Studio 2015\Projects\Udpchatbackup\UdpFinishing\obj\Debug\UdpFinishing.UIControls.UICMessage.resources
+C:\Users\openpgsvc\Documents\Visual Studio 2015\Projects\Udpchatbackup\UdpFinishing\obj\Debug\UdpFinishing.Ui.Connect.resources
+C:\Users\openpgsvc\Documents\Visual Studio 2015\Projects\Udpchatbackup\UdpFinishing\obj\Debug\UdpFinishing.csproj.GenerateResource.Cache
+C:\Users\openpgsvc\Documents\Visual Studio 2015\Projects\Udpchatbackup\UdpFinishing\obj\Debug\UdpFinishing.LayoutMain.resources
+C:\Users\openpgsvc\Documents\Visual Studio 2015\Projects\Udpchatbackup\UdpFinishing\obj\Debug\UdpFinishing.csprojResolveAssemblyReference.cache
+C:\Users\Red1\Downloads\Udpchatbackup\UdpFinishing\bin\Debug\UdpFinishing.exe.config
+C:\Users\Red1\Downloads\Udpchatbackup\UdpFinishing\bin\Debug\UdpFinishing.exe
+C:\Users\Red1\Downloads\Udpchatbackup\UdpFinishing\bin\Debug\UdpFinishing.pdb
+C:\Users\Red1\Downloads\Udpchatbackup\UdpFinishing\obj\Debug\UdpFinishing.csprojAssemblyReference.cache
+C:\Users\Red1\Downloads\Udpchatbackup\UdpFinishing\obj\Debug\UdpFinishing.LayoutMain.resources
+C:\Users\Red1\Downloads\Udpchatbackup\UdpFinishing\obj\Debug\UdpFinishing.Properties.Resources.resources
+C:\Users\Red1\Downloads\Udpchatbackup\UdpFinishing\obj\Debug\UdpFinishing.Setting.resources
+C:\Users\Red1\Downloads\Udpchatbackup\UdpFinishing\obj\Debug\UdpFinishing.UIControls.UIExit.resources
+C:\Users\Red1\Downloads\Udpchatbackup\UdpFinishing\obj\Debug\UdpFinishing.UIControls.UCcontacts.resources
+C:\Users\Red1\Downloads\Udpchatbackup\UdpFinishing\obj\Debug\UdpFinishing.UIControls.UICMessage.resources
+C:\Users\Red1\Downloads\Udpchatbackup\UdpFinishing\obj\Debug\UdpFinishing.Ui.Connect.resources
+C:\Users\Red1\Downloads\Udpchatbackup\UdpFinishing\obj\Debug\UdpFinishing.csproj.GenerateResource.cache
+C:\Users\Red1\Downloads\Udpchatbackup\UdpFinishing\obj\Debug\UdpFinishing.csproj.CoreCompileInputs.cache
+C:\Users\Red1\Downloads\Udpchatbackup\UdpFinishing\obj\Debug\UdpFinishing.exe
+C:\Users\Red1\Downloads\Udpchatbackup\UdpFinishing\obj\Debug\UdpFinishing.pdb
+C:\Users\openpgsvc\Documents\Visual Studio 2015\Projects\Udpchatprotocol\UdpFinishing\bin\Debug\UdpFinishing.exe.config
+C:\Users\openpgsvc\Documents\Visual Studio 2015\Projects\Udpchatprotocol\UdpFinishing\obj\Debug\UdpFinishing.exe
+C:\Users\openpgsvc\Documents\Visual Studio 2015\Projects\Udpchatprotocol\UdpFinishing\obj\Debug\UdpFinishing.pdb
+C:\Users\openpgsvc\Documents\Visual Studio 2015\Projects\Udpchatprotocol\UdpFinishing\bin\Debug\UdpFinishing.exe
+C:\Users\openpgsvc\Documents\Visual Studio 2015\Projects\Udpchatprotocol\UdpFinishing\bin\Debug\UdpFinishing.pdb
+C:\Users\openpgsvc\Documents\Visual Studio 2015\Projects\Udpchatprotocol\UdpFinishing\obj\Debug\UdpFinishing.LayoutMain.resources
+C:\Users\openpgsvc\Documents\Visual Studio 2015\Projects\Udpchatprotocol\UdpFinishing\obj\Debug\UdpFinishing.Properties.Resources.resources
+C:\Users\openpgsvc\Documents\Visual Studio 2015\Projects\Udpchatprotocol\UdpFinishing\obj\Debug\UdpFinishing.Setting.resources
+C:\Users\openpgsvc\Documents\Visual Studio 2015\Projects\Udpchatprotocol\UdpFinishing\obj\Debug\UdpFinishing.UIControls.UIExit.resources
+C:\Users\openpgsvc\Documents\Visual Studio 2015\Projects\Udpchatprotocol\UdpFinishing\obj\Debug\UdpFinishing.UIControls.UCcontacts.resources
+C:\Users\openpgsvc\Documents\Visual Studio 2015\Projects\Udpchatprotocol\UdpFinishing\obj\Debug\UdpFinishing.UIControls.UICMessage.resources
+C:\Users\openpgsvc\Documents\Visual Studio 2015\Projects\Udpchatprotocol\UdpFinishing\obj\Debug\UdpFinishing.Ui.Connect.resources
+C:\Users\openpgsvc\Documents\Visual Studio 2015\Projects\Udpchatprotocol\UdpFinishing\obj\Debug\UdpFinishing.csproj.GenerateResource.Cache
+C:\Users\openpgsvc\Documents\Visual Studio 2015\Projects\Udpchatprotocol\UdpFinishing\obj\Debug\UdpFinishing.csprojResolveAssemblyReference.cache
