@@ -12,6 +12,7 @@ namespace UdpFinishing.Ui
 {
     public partial class Connect : Form
     {
+        // Initializing the connection and Testing Jenkins Integration
         public Connect()
         {
             InitializeComponent();
